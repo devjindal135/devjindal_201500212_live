@@ -1,0 +1,30 @@
+.logo{
+  width: 50px;
+  height:50px;
+  margin-right: 40px;
+}
+body{
+  background-color: #fff;
+}
+.btn{
+  margin-left: 520px;
+}
+.top{
+  font-size: 1rem;
+  margin: 100px 100px;
+}
+.big-heading{
+  font-family:"Montserrat-black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #1F4690;
+  margin-left: 20px;
+
+}
+.title-image{
+  width:60%;
+}
+.yes{
+  display: flex;
+  margin: 20px 20px;
+}
